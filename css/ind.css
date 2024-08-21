@@ -1,0 +1,37 @@
+h2{
+    color:#ffffff; 
+    font-size:0.8cm; 
+    text-align:center;
+    vertical-align:center;
+    }
+    #ex01{text-align:left; font-size:0.8cm; font-family:Bradley Hand ITC; letter-spacing:10px;}
+    #ex02{text-align:center; font-size:1cm; color:#7e6348; font-family:Bradley Hand ITC; letter-spacing:10px;}
+
+h3{
+    color:#ffffff; 
+    font-size:1cm; 
+    text-align:center;
+    vertical-align:center;
+    }
+h4{
+    color:#ffffff; 
+    font-size:0.6cm; 
+    text-align:center;
+    vertical-align:center;
+    }
+body {
+    background-image:url( 'https://thumb.ac-illust.com/4e/4e7f98bb9dd068f2cad805cd56ec06df_t.jpeg' );
+    
+    background-color: #b2967e;
+    }
+nav {
+    background-image:url( '' );
+    background-repeat:no-repeat;
+    background-color: #b2967e;
+    }
+head {
+    background-image:url( 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr16Nmtfxzh_zJAiLz0Ltqz_HMndq_r1KLRRzvTywt9fDCBs4w' );
+    background-repeat:no-repeat;
+    background-color: #b2967e;
+    }
+   
